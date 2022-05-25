@@ -9,6 +9,7 @@ Useful notes and links obtained after a research. They are a good start point
 
 
 ## 2D & 3D Maps
+[CesiumPy](https://cesiumpy.readthedocs.io/en/latest/basics.html)
 [CesiumJS](https://cesium.com/platform/cesiumjs/)
 [CesiumJS Demo](https://sandcastle.cesium.com/?src=CZML.html)
 
